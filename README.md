@@ -65,17 +65,20 @@
 - **[DeluxeBazaar](https://github.com/sedatcakmak/DeluxeBazaar)** — Configurable bazaar/shop for Spigot, Paper & Folia
 - **[DeluxeAuctions](https://github.com/sedatcakmak/DeluxeAuctions)** — Auction house with bidding & many integrations
 - **[DeluxeBedwars](https://github.com/sedatcakmak/DeluxeBedwars)** — Bedwars minigame with teams, arenas & cosmetics
-- **[DeluxeCrafting](https://github.com/sedatcakmak/DeluxeCrafting)** · **[DeluxeWand](https://github.com/sedatcakmak/DeluxeWand)** · **[DeluxeCore](https://github.com/sedatcakmak/DeluxeCore)**
+- **[AuctionMaster](https://github.com/sedatcakmak/AuctionMaster)** — Free auction-house plugin (with qKing12)
+- **[ProAnnounces](https://github.com/sedatcakmak/ProAnnounces)** — Auto-broadcast plugin (sequential / random / per-world)
+- **[ProLoginBar](https://github.com/sedatcakmak/ProLoginBar)** — AuthMe-integrated login bar with title & boss bar
 
     </td>
     <td width="50%" valign="top">
 
-#### 🔧 Tools
+#### 🧩 More Plugins & Tools
 
-- **[yaml-translator](https://github.com/sedatcakmak/yaml-translator)** — Translate YAML files between languages while keeping placeholders intact
-- **[ProAnnounces](https://github.com/sedatcakmak/ProAnnounces)** — Auto-broadcast plugin
-- **[ProMessages](https://github.com/sedatcakmak/ProMessages)** — Custom join/leave messages
-- **[ProJumpPads](https://github.com/sedatcakmak/ProJumpPads)** — Jump pads with effects
+- **[DeluxeCore](https://github.com/sedatcakmak/DeluxeCore)** — Shared library for the Deluxe plugin series
+- **[DeluxeAuctionsDisplay](https://github.com/sedatcakmak/DeluxeAuctionsDisplay)** — In-world display addon for DeluxeAuctions
+- **[DeluxeWand](https://github.com/sedatcakmak/DeluxeWand)** · **[DeluxeCrafting](https://github.com/sedatcakmak/DeluxeCrafting)**
+- **[ProMessages](https://github.com/sedatcakmak/ProMessages)** · **[ProJumpPads](https://github.com/sedatcakmak/ProJumpPads)**
+- **[yaml-translator](https://github.com/sedatcakmak/yaml-translator)** — Translate YAML files while keeping placeholders intact
 
     </td>
   </tr>
