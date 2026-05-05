@@ -86,8 +86,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=sedatcakmak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sedatcakmak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sedatcakmak&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution graph" />
 </p>
 
 <p align="center">
