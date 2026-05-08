@@ -52,7 +52,6 @@
 #### 🌐 Web
 
 - **[daimweb](https://github.com/sedatcakmak/daimweb)** — Spring Boot web version of daim
-- **[kapadokyayapayzekazirvesi](https://github.com/sedatcakmak/kapadokyayapayzekazirvesi)** — Event site for the Cappadocia AI Summit
 - **[classrollcall](https://github.com/sedatcakmak/classrollcall)** — Class attendance tracker built for AGU
 
     </td>
